@@ -1,0 +1,12 @@
+{
+  "name": "interview_test",
+  "version": "1.0.0",
+  "description": "simple ui test",
+  "main": "index.js",
+  "author": "srdja dzogaz",
+  "license": "n/a",
+  "private": false,
+  "devDependencies": {
+    "@playwright/test": "^1.52.0"
+  }
+}

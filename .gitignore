@@ -1,0 +1,13 @@
+node_modules/
+test-results/
+playwright-report/
+# for reporting 
+allure-results/
+allure-report/
+.env
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+# macos filesystem specific files 
+.DS_Store
+Thumbs.db
