@@ -1,0 +1,19 @@
+{
+  "data-name": {
+    "a11yKeyboardToggle": "[data-name='keyboard']",
+    "a11yAnimationsToggle": "[data-name='animations']",
+    "a11yContrastToggle": "[data-name='contrast']",
+    "a11yIncreaseFontToggle": "[data-name='incfont']",
+    "a11yDecreaseFontToggle": "[data-name='decfont']",
+    "a11yReadableFontToggle": "[data-name='readable']",
+    "a11yMarkTitlesToggle": "[data-name='marktitles']",
+    "a11yUnderlineToggle": "[data-name='underline']"
+  },
+  "ids": {
+    "a11y-button-open": "#acwp-toolbar-btn",
+    "a11y-button-close": "#acwp-close-toolbar"
+  },
+  "text": {
+    "bookDemoLink": "a:has-text('Book a Demo')"
+  }
+}

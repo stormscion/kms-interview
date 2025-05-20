@@ -1,0 +1,10 @@
+{
+  "formFields": {
+    "firstNameInput": "input[name='firstname']",
+    "lastname": "input[name='lastname']",
+    "email": "input[name='email']",
+    "phone": "input[name='phone']",
+    "jobtitle": "input[name='jobtitle']",
+    "country": "select[name='country']"
+  }
+}
