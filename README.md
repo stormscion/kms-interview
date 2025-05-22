@@ -30,3 +30,6 @@ yarn run test:headed
 - we need to add reporter (alure) ✅ \*\*requires java to be installed on a system
 - we need to add git hooks for all of these in the husky
 - create config pattern to cleanly store different playwright configts in the relevant scope
+
+<img width="1672" alt="image" src="https://github.com/user-attachments/assets/36211980-6cea-499a-9f05-7cdd4cb2ea76" />
+
