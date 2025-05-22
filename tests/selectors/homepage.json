@@ -14,6 +14,6 @@
     "a11y-button-close": "#acwp-close-toolbar"
   },
   "text": {
-    "bookDemoLink": "a:has-text('Book a Demo')"
+    "bookDemoLink": "Book a Demo"
   }
 }
