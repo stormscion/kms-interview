@@ -18,6 +18,7 @@ yarn run test:headed
 - clone locally
 - `nvm use` or `fnm use`
 - `yarn`
+- `yarn run test:headless`
 
 ## Tests
 
